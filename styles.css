@@ -1,0 +1,27 @@
+h1{
+text-align: center;
+
+color: #F0E68C;
+background-color: #355E3B;
+
+}
+body{
+    background-color: #77DD77;
+}
+.lasagna, .pizza, .trifle{
+    display: inline-block;
+    padding: 10px;
+    border: 3px double;
+    margin: 5px;
+    background-color: #F0E68C;
+
+}
+.lasagna{
+    margin-left: 450px;
+}
+h3{
+    display:inline-block;
+    color: #F0E68C;
+background-color: #355E3B;
+
+}
